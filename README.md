@@ -1,5 +1,5 @@
 - 👋 Olá, sou @BRX2K
-- 👀 Estou interessado em aprender a programar principalmente na parte front-end
+- 👀 Estou interessado em aprender a programar 
 - 🌱 Atualmente estou aprendendo HTML,CSS e JAVASCRIPT
 - 💞️ Estou procurando amigos que possam me ajudar nessa nova jornada
 - 📫 Como entrar em contato comigo: Pelo discord BRX2K
